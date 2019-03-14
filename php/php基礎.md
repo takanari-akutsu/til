@@ -1,0 +1,4 @@
+# NVCモデルとは
+- Movel
+- View
+- Controller
