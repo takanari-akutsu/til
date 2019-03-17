@@ -7,6 +7,8 @@
 
 # CSVで出力するには
 
+```
+
 <?php
 $dsn = 'mysql:host=localhost;dbname=任意のDB;charset=utf8';
 $user = 'root';
@@ -51,3 +53,5 @@ while($row = $stmt->fetch(PDO::FETCH_ASSOC)){
 
 $db = null;
 }
+
+```
